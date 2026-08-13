@@ -99,7 +99,6 @@ The platform includes:
 | Project | Description | Stack |
 |---|---|---|
 | [Bale Chat Exporter](https://github.com/aliemamidev/bale-chat-exporter) | Privacy-first CLI for exporting authorized Bale Messenger conversations to structured JSON with optional media downloads. | Python |
-| [ChatGPT Persian RTL](https://github.com/aliemamidev/chatgpt-persian-rtl) | RTL/LTR improvements for Persian, Arabic and Hebrew ChatGPT/Codex experiences across Chrome, desktop and VS Code. | JavaScript |
 | [NeTab](https://github.com/aliemamidev/netab) | Privacy-friendly Manifest V3 new-tab dashboard with grouped links, widgets, media and local settings. | JavaScript |
 | [IRONVAULT](https://github.com/aliemamidev/ironvault) | Lightweight Flask credential vault with encrypted storage, session controls and 2FA-aware workflows. | Python / Flask |
 | [WooCommerce Product Content Score](https://github.com/aliemamidev/woocommerce-product-content-score) | WooCommerce admin plugin for scoring product-content completeness and catalog quality. | PHP / WordPress |
