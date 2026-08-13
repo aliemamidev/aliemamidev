@@ -10,7 +10,6 @@ I design and build practical software for real operational problems — from bus
 
 [![GitHub](https://img.shields.io/badge/GitHub-aliemamidev-181717?style=for-the-badge&logo=github)](https://github.com/aliemamidev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aliemdev-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aliemdev/)
-[![Website](https://img.shields.io/badge/Rouhi-rouhi.ir-D20A11?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rouhi.ir)
 [![Email](https://img.shields.io/badge/Email-aliemamidev%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:aliemamidev@gmail.com)
 
 </div>
@@ -153,16 +152,19 @@ Multilingual text, RTL layouts, historical prices, money units, permissions, ses
 
 <div align="center">
 
-![SeyedAli's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliemamidev&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliemamidev&layout=compact&hide_border=true&theme=tokyonight)
+<a href="https://github.com/aliemamidev?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-10-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"></a>
+<a href="https://github.com/aliemamidev?tab=followers"><img src="https://img.shields.io/github/followers/aliemamidev?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="GitHub followers"></a>
+<a href="https://github.com/aliemamidev/bale-chat-exporter"><img src="https://img.shields.io/github/stars/aliemamidev/bale-chat-exporter?style=for-the-badge&logo=github&logoColor=white&label=Featured%20project%20stars" alt="Featured project stars"></a>
+<a href="https://github.com/aliemamidev?tab=repositories"><img src="https://img.shields.io/badge/Focus-TypeScript%20%7C%20Python-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Primary focus TypeScript and Python"></a>
 
 </div>
+
+All badges above use stable `img.shields.io` endpoints and link back to native GitHub pages. GitHub's contribution graph and activity timeline remain available directly on the profile page.
 
 ## Let's connect
 
 If you are building a practical business platform, a multilingual interface, a commerce workflow, an automation tool, or a focused developer product, feel free to connect.
 
-- Website: [rouhi.ir](https://rouhi.ir)
 - LinkedIn: [linkedin.com/in/aliemdev](https://www.linkedin.com/in/aliemdev/)
 - Email: [aliemamidev@gmail.com](mailto:aliemamidev@gmail.com)
 
